@@ -1,0 +1,2 @@
+/* Quiet OSM Shortbread background. Local overlay geometry is unchanged. */
+window.LOCATION_MAP_CONFIG={tileUrl:'https://tiles.versatiles.org/tiles/osm/{z}/{x}/{y}',maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors · <a href="https://versatiles.org/">VersaTiles</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> <a href="https://esa-worldcover.org/en/data-access">ESA WorldCover 2021</a>'};
